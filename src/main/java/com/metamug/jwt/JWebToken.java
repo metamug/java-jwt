@@ -1,3 +1,4 @@
+package com.metamug.jwt;
 
 import java.nio.charset.StandardCharsets;
 import java.security.InvalidKeyException;
